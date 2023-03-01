@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/050/zettelkasten/","tags":["Obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/000-总类/050-写作/🗄️Zettelkasten/","tags":["Obsidian"],"noteIcon":""}
 ---
 
 
