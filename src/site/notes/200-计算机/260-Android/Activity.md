@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/200/260-android/activity/","tags":["TODO"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/200-计算机/260-Android/Activity/","tags":["TODO"],"noteIcon":""}
 ---
 
 
