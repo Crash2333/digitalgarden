@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/050/markdown/","tags":["Markdown"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/000-总类/050-写作/🖊️Markdown/","tags":["Markdown"],"noteIcon":""}
 ---
 
 Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。
