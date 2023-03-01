@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/200-计算机/260-Android/Activity/","tags":["TODO"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/200-计算机/260-Android/Activity/","tags":["Android/四大组件"],"noteIcon":""}
 ---
 
 
@@ -12,22 +12,12 @@ Android四大组件之一。本质上就是一个交互界面。
 6. [[200-计算机/260-Android/onStop\|onStop]]
 7. [[200-计算机/260-Android/onDestroy\|onDestroy]]
 8. [[200-计算机/260-Android/onRestart\|onRestart]]
-
+![Imgur](https://imgur.com/R4QX7qB)
 
 ## 启动模式
-- Standard
-- SingleTop
-- SingleTask
-- SingleInstance
+- [[200-计算机/260-Android/Standard\|Standard]]
+- [[200-计算机/260-Android/SingleTop\|SingleTop]]
+- [[200-计算机/260-Android/SingleTask\|SingleTask]]
+- [[200-计算机/260-Android/SingleInstance\|SingleInstance]]
 
 ## 启动流程
-
-
-
-## 再背启动模式
-[[standard标准模式\|standard标准模式]]
-[[singleTop栈顶复用模式\|singleTop栈顶复用模式]]
-[[singleTask\|singleTask]]
-[[singleInstance\|singleInstance]]
-
-## 
