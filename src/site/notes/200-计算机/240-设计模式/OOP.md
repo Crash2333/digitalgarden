@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/200/240/oop/","tags":["Java"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/200-计算机/240-设计模式/OOP/","tags":["Java"],"noteIcon":""}
 ---
 
 Object-Oriented Programming
