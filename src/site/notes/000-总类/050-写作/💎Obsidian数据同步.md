@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/050/obsidian/","tags":["Obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/000-总类/050-写作/💎Obsidian数据同步/","tags":["Obsidian"],"noteIcon":""}
 ---
 
 # Obsidian『windows和Android』数据同步
