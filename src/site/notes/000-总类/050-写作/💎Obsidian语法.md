@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/050/obsidian/","tags":["TODO"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/000-总类/050-写作/💎Obsidian语法/","tags":["TODO"],"noteIcon":""}
 ---
 
 
