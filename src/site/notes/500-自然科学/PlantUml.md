@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500/plant-uml/","tags":["UML","绘图"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/500-自然科学/PlantUml/","tags":["UML","绘图"],"noteIcon":""}
 ---
 
 # PlantUml是什么？
