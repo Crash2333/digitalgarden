@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/050/niklas-luhmann/","tags":["国家/德国"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/000-总类/050-写作/👴Niklas Luhmann/","tags":["国家/德国"],"noteIcon":""}
 ---
 
 
