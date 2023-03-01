@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/050/markdown/","tags":["Markdown"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/000-总类/050-写作/🖊️Markdown语法/","tags":["Markdown"],"noteIcon":""}
 ---
 
 
