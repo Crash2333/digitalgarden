@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-page/digital-garden/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/DigitalGardenPage/凉风のDigitalGarden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
