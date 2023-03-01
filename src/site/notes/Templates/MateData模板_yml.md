@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/templates/mate-data-yml/","tags":["TODO"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Templates/MateData模板_yml/","tags":["TODO"],"noteIcon":""}
 ---
