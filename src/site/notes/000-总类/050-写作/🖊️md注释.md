@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/050/md/","tags":["Markdown"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/000-总类/050-写作/🖊️md注释/","tags":["Markdown"],"noteIcon":""}
 ---
 
 
