@@ -12,7 +12,9 @@ Android四大组件之一。本质上就是一个交互界面。
 6. [[200-计算机/260-Android/onStop\|onStop]]
 7. [[200-计算机/260-Android/onDestroy\|onDestroy]]
 8. [[200-计算机/260-Android/onRestart\|onRestart]]
-![Imgur](https://imgur.com/R4QX7qB)
+
+![](https://imgur.com/R4QX7qB)
+![Imgur](https://imgur.com/R4QX7qB.png)
 
 ## 启动模式
 - [[200-计算机/260-Android/Standard\|Standard]]
@@ -21,3 +23,4 @@ Android四大组件之一。本质上就是一个交互界面。
 - [[200-计算机/260-Android/SingleInstance\|SingleInstance]]
 
 ## 启动流程
+
