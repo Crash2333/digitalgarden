@@ -21,13 +21,13 @@
 - 
 
 ## View
-- [[自定义View\|自定义View]]
+- [[200-计算机/260-Android/自定义View\|自定义View]]
 - [[200-计算机/260-Android/View事件分发\|View事件分发]]
 
 ## 架构
 - [[200-计算机/260-Android/MVVM\|MVVM]]
-- [[MVP\|MVP]]
-- [[MVC\|MVC]]
+- [[200-计算机/260-Android/MVP\|MVP]]
+- [[200-计算机/260-Android/MVC\|MVC]]
 
 ## 适配
 - 屏幕适配
