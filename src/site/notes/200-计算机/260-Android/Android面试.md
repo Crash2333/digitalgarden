@@ -11,6 +11,8 @@
 ## 通信
 - [[200-计算机/260-Android/Handler\|Handler]]
 - [[200-计算机/260-Android/Broadcast\|Broadcast]]
+- [[EventBus\|EventBus]]
+- 
 
 ## 数据存储
 - [[Room数据库\|Room数据库]]
@@ -23,7 +25,7 @@
 - [[200-计算机/260-Android/View事件分发\|View事件分发]]
 
 ## 架构
-- [[MVVM\|MVVM]]
+- [[200-计算机/260-Android/MVVM\|MVVM]]
 - [[MVP\|MVP]]
 - [[MVC\|MVC]]
 
@@ -32,6 +34,8 @@
 - 版本适配
 
 ## Git
+- branch
+- 
 
 
 ## 参考资料
