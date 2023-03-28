@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/200-计算机/260-Android/Android面试/","tags":["面试/Android"],"noteIcon":""}
 ---
 
+## JAVA基础
+- [Java基础常见面试题总结(中) | JavaGuide(Java面试+学习指南)](https://javaguide.cn/java/basis/java-basic-questions-02.html)
+- [[面向对象\|面向对象]]
+- [[200-计算机/260-Android/override\|override]]和[[overload\|overload]]的区别
+
+
 ## 四大组件
 - [[200-计算机/260-Android/Activity\|Activity]]
 - [[200-计算机/260-Android/Service\|Service]]
@@ -12,7 +18,12 @@
 - [[200-计算机/260-Android/Handler\|Handler]]
 - [[200-计算机/260-Android/Broadcast\|Broadcast]]
 - [[EventBus\|EventBus]]
-- 
+- Bundle
+- AIDL
+- ContentProvider
+- 接口
+- 文件
+- 数据库
 
 ## 数据存储
 - [[Room数据库\|Room数据库]]
