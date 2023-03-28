@@ -11,6 +11,6 @@
 主要负责UI控件的处理，通常都是指☞[Activity](app://obsidian.md/Activity)和[Fragment](app://obsidian.md/Fragment)。主要处理动画播放暂停、View事件的监听等
 
 ## Presenter
-主要负责处理业务逻辑
+主要负责处理业务逻辑，同时持有Viwe和Model的引用
 
 ![Imgur](https://imgur.com/cy33wSw.jpg)
