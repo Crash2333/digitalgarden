@@ -13,5 +13,10 @@ Hi，我是黄康德，网络 ID 是 guyskk。
 我现在是自由职业者/独立开发者，正在进行 [自宅创业](https://blog.guyskk.com/notes/onebiz-begin) 。
 
 最喜欢的一本书是[《程序员修炼之道 - 从小工到专家》](https://book.douban.com/subject/6880016/)。
+
+## 作品
+[官网 | 艺爪AI助手,艺爪付费](https://www.ezfuns.com/)
+[蚁阅](https://rss.anyant.com/)
+
 ## 参考资料
 [Guyskk的博客](https://blog.guyskk.com/)
