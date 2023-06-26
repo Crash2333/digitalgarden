@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-应用科学/610-工具软件/TVBox/","tags":["TVBox","Android/TV"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/600-应用科学/610-工具软件/TVBox/","tags":["TVBox","AndroidApp/TV"],"noteIcon":""}
 ---
 
 TVBox 是一款电视盒子播放器，开源免费，简洁无广告，可以添加**源**，速度和资源量是根据添加的配置而决定的，只要添加的**配置**里的线路给力，就可以做到流畅观看电视直播、电视剧、电影等。
