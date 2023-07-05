@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-总类/050-写作/💎Obsidian块引用/","tags":["Obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/000-总类/050-写作/💎Obsidian块引用/","tags":["Obsidian/Syntax"],"noteIcon":""}
 ---
 
 - 引入某篇文档中的某一行（或某一段）文字
