@@ -5,6 +5,9 @@
 
 一个好用的双链笔记
 
+## 官方使用文档
+[由此开始 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B)
+
 ## 字体
 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases)
 下载对应的TTF（LXGWWenKai-Regular.ttf）文件，然后双击安装。
