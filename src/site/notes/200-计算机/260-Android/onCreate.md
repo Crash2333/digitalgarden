@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/200-计算机/260-Android/onCreate/","tags":["TODO"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/200-计算机/260-Android/onCreate/","noteIcon":""}
 ---
 
 表示Activity正在被创建。
