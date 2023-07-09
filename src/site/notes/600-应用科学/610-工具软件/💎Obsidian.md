@@ -19,8 +19,9 @@
 
 ## 语法
 - [[000-总类/050-写作/💎Obsidian数据同步\|💎Obsidian数据同步]]
-- [[000-总类/050-写作/💎Obsidian语法\|💎Obsidian语法]]
+- [[000-总类/050-写作/💎Callouts\|💎Callouts]]
 - [[000-总类/050-写作/💎Obsidian块引用\|💎Obsidian块引用]]
+- [[000-总类/050-写作/💎Obsidian语法\|💎Obsidian语法]]
 
 { .block-language-dataview}
 
