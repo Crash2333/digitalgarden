@@ -40,17 +40,10 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 
 ## [[300-社会科学/330-个人博客/个人博客\|关注的博主]]
 
-## 代办清单
-| File                                                        | 开始时间              |
-| ----------------------------------------------------------- | ----------------- |
-| [[200-计算机/260-Android/onResume\|onResume]]               | March 01, 2023    |
-| [[200-计算机/260-Android/onPause\|onPause]]                 | March 01, 2023    |
-| [[200-计算机/260-Android/onRestart\|onRestart]]             | March 01, 2023    |
-| [[200-计算机/260-Android/ContentProvider\|ContentProvider]] | March 01, 2023    |
-| [[200-计算机/260-Android/Broadcast\|Broadcast]]             | March 01, 2023    |
-| [[000-总类/050-写作/💎Obsidian话题引用\|💎Obsidian话题引用]]         | February 18, 2023 |
-| [[500-自然科学/WebDAV\|WebDAV]]                              | April 01, 2023    |
-| [[500-自然科学/印钞税\|印钞税]]                                    | July 09, 2023     |
-| [[Weekly/2023W28\|2023W28]]                              | July 03, 2023     |
-
-{ .block-language-dataview}
+>[!todo] 代办清单
+>```dataview
+table
+date as "开始时间"
+from
+#TODO 
+sort ReadStatus desc
