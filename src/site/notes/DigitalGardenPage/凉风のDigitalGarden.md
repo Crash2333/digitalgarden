@@ -16,16 +16,7 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 
 对于微信中的各种广告，我已经忍无可忍了。但又不得不去用它。为了不看广告，我开始用[[600-应用科学/610-工具软件/RSS\|RSS]]订阅公众号的推文。尽量少刷朋友圈。
 
-```plantuml
-Bob -> Alice : hello
-Alice -> Wonderland: hello
-Wonderland -> next: hello
-next -> Last: hello
-Last -> next: hello
-next -> Wonderland : hello
-Wonderland -> Alice : hello
-Alice -> Bob: hello
-```
+
 
 
 ## 阅读
@@ -43,13 +34,7 @@ Alice -> Bob: hello
 [[Weekly/2023W28\|2023W28]]
 [[Weekly/2023W29\|2023W29]]
 
-
 ## [[700-艺术与休闲/710-影视/追剧\|追剧]]
-
-
-
-
-
 
 ## [[300-社会科学/330-个人博客/个人博客\|关注的博主]]
 
