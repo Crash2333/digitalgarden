@@ -18,10 +18,11 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 
 
 ## 阅读
-| File                              | 开始时间     | 状态      | 进度  |
-| --------------------------------- | -------- | ------- | --- |
-| [[Books/《置身事内》\|《置身事内》]]       | 20230701 | Reading | 75% |
-| [[Books/《壶铃-极简极致》\|《壶铃-极简极致》]] | 20230624 | Reading | 50% |
+| File                              | 开始时间          | 状态 | 进度   |
+| --------------------------------- | ------------- | -- | ---- |
+| [[纳瓦尔宝典\|纳瓦尔宝典]]               | July 15, 2023 | 在读 | 2%   |
+| [[Books/《置身事内》\|《置身事内》]]       | 20230701      | 读完 | 100% |
+| [[Books/《壶铃-极简极致》\|《壶铃-极简极致》]] | 20230624      | 在读 | 50%  |
 
 { .block-language-dataview}
 
@@ -29,6 +30,7 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 周报的命名规则是本年度的第几周
 ### 2023
 [[Weekly/2023W28\|2023W28]]
+[[Weekly/2023W29\|2023W29]]
 
 
 ## [[700-艺术与休闲/710-影视/追剧\|追剧]]
@@ -47,3 +49,19 @@ date as "开始时间"
 from
 #TODO 
 sort ReadStatus desc
+
+<script src="https://giscus.app/client.js"
+        data-repo="Crash2333/DigitalGardenComments"
+        data-repo-id="R_kgDOJ8I68g"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJ8I68s4CX6_8"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
