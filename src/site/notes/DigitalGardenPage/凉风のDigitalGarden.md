@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/DigitalGardenPage/凉风のDigitalGarden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-
-![Imgur](https://i.imgur.com/7lQayfW.jpg)
+![Imgur](https://i.imgur.com/gwdsbJk.jpg)
 
 hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Android]]工程师。写过几千行代码，带过十几人团队。
 
