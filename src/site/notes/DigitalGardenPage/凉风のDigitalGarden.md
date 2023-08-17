@@ -6,7 +6,7 @@
 
 hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Android]]工程师。写过几千行代码，带过十几人团队。
 
-这是我的第二大脑🧠，也是我的数字花园🏡。这座花园是由[[600-应用科学/610-工具软件/💎Obsidian\|💎Obsidian]]+[[600-应用科学/620-快捷键_插件/621-obsidian/🔌Obsidian Digital Garden\|🔌Obsidian Digital Garden]]+[[Github\|Github]]+[[Netlify\|Netlify]]打造的。使用[giscus](https://giscus.app/zh-CN)实现评论功能。
+这是我的第二大脑🧠，也是我的数字花园🏡。这座花园是由[[600-应用科学/610-工具软件/💎Obsidian\|💎Obsidian]]+[[600-应用科学/620-快捷键_插件/621-obsidian/🔌Obsidian Digital Garden\|🔌Obsidian Digital Garden]]+[[600-应用科学/610-工具软件/Github\|Github]]+[[Netlify\|Netlify]]打造的。使用[giscus](https://giscus.app/zh-CN)实现评论功能。
 
 口罩期间抗过了三年疫情，却在全面解封之后从公司毕业了。
 现在是一名有点迷茫的自由职业者。
@@ -15,6 +15,7 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 
 对于微信中的各种广告，我已经忍无可忍了。但又不得不去用它。为了不看广告，我开始用[[600-应用科学/610-工具软件/RSS\|RSS]]订阅公众号的推文。尽量少刷朋友圈。
 
+这是我的[[000-总类/作息时间表\|作息时间表]]，我将尽力达到表中的规划。毕竟计划赶不上变化。
 
 
 
@@ -31,13 +32,8 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 { .block-language-dataview}
 
 ## Weekly
-周报的命名规则是本年度的第几周
-### 2023
-[[Weekly/2023/2023W28\|2023W28]]
-[[Weekly/2023/2023W29\|2023W29]]
-[[Weekly/2023/2023W31\|2023W31]]
-[[Weekly/2023/2023W32\|2023W32]]
-[[Weekly/2023/2023W33\|2023W33]]
+[[Weekly/2023/2023Weekly\|2023Weekly]]
+
 
 ## 娱乐
 [[700-艺术与休闲/710-影视/追剧\|追剧]]
