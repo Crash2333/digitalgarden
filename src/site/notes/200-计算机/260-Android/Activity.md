@@ -21,6 +21,28 @@ Android四大组件之一。本质上就是一个交互界面。
 - [[200-计算机/260-Android/SingleTop\|SingleTop]]
 - [[200-计算机/260-Android/SingleTask\|SingleTask]]
 - [[200-计算机/260-Android/SingleInstance\|SingleInstance]]
+### 配置方法
+
+```
+<activity
+	．．．．．．
+    android:launchMode="standard">
+     ．．．．．．．
+</activity>
+```
 
 ## 启动流程
 
+
+
+## 其它
+### 横竖屏切换
+横竖屏切换的生命周期：
+
+> onPause() --> onSaveInstanceState() --> onStop() --> onDestory() --> onCreate() --> onStart() --> onRestoreInstanceState() --> onResume()
+
+可以通过在AndroidManifest文件的Activity中指定如下属性来避免横竖屏切换：
+
+```
+android:configChanges = "orientation| screenSize"
+```
