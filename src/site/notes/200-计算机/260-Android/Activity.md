@@ -21,6 +21,8 @@ Android四大组件之一。本质上就是一个交互界面。
 - [[200-计算机/260-Android/SingleTop\|SingleTop]]
 - [[200-计算机/260-Android/SingleTask\|SingleTask]]
 - [[200-计算机/260-Android/SingleInstance\|SingleInstance]]
+
+
 ### 配置方法
 
 ```
