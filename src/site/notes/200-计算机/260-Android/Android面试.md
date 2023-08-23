@@ -2,10 +2,31 @@
 {"dg-publish":true,"permalink":"/200-计算机/260-Android/Android面试/","tags":["面试/Android"],"noteIcon":""}
 ---
 
+
+[[000-总类/090-Blog/车载开发\|车载开发]]
+[[200-计算机/260-Android/代码分支管理\|代码分支管理]]
+
+
+
 ## JAVA基础
 - [Java基础常见面试题总结(中) | JavaGuide(Java面试+学习指南)](https://javaguide.cn/java/basis/java-basic-questions-02.html)
-- [[面向对象\|面向对象]]
-- [[200-计算机/260-Android/override\|override]]和[[overload\|overload]]的区别
+- [[200-计算机/260-Android/Java/面向对象\|面向对象]]
+- [[200-计算机/260-Android/Java/Java集合\|Java集合]]
+- [[200-计算机/260-Android/Java/Java异常\|Java异常]]
+- [[200-计算机/260-Android/Java/Java泛型\|Java泛型]]
+- [[200-计算机/260-Android/Java/Java反射\|Java反射]]
+- [[200-计算机/260-Android/Java/序列化和反序列化\|序列化和反序列化]]
+- [[200-计算机/260-Android/override\|override]]和[[200-计算机/260-Android/Java/overload\|overload]]的区别
+- [[200-计算机/260-Android/Java/continue、break 和 return 的区别是什么？\|continue、break 和 return 的区别是什么？]]
+- [[200-计算机/260-Android/Java/对象实体与对象引用有何不同？\|对象实体与对象引用有何不同？]]
+- [[200-计算机/260-Android/Java/== 和 equals 区别？\|== 和 equals 区别？]]
+- [[200-计算机/260-Android/Java/接口和抽象类有什么共同点和区别？\|接口和抽象类有什么共同点和区别？]]
+- [[200-计算机/260-Android/Java/String、StringBuffer、StringBuilder 的区别？\|String、StringBuffer、StringBuilder 的区别？]]
+
+## kotlin基础
+[[200-计算机/260-Android/kotlin\|kotlin]]
+
+
 
 
 ## 四大组件
@@ -13,6 +34,7 @@
 - [[200-计算机/260-Android/Service\|Service]]
 - [[200-计算机/260-Android/BroadcastReceiver\|BroadcastReceiver]]
 - [[200-计算机/260-Android/ContentProvider\|ContentProvider]]
+- [[200-计算机/260-Android/IntentFilter\|IntentFilter]]
 
 ## 通信
 - [[200-计算机/260-Android/Handler\|Handler]]
@@ -45,8 +67,7 @@
 - 版本适配
 
 ## Git
-- branch
-- 
+[[200-计算机/260-Android/Git\|Git]]
 
 
 ## 参考资料
