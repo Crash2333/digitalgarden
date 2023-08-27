@@ -27,14 +27,31 @@
 [[200-计算机/260-Android/kotlin\|kotlin]]
 
 
-
-
 ## 四大组件
 - [[200-计算机/260-Android/Activity\|Activity]]
 - [[200-计算机/260-Android/Service\|Service]]
 - [[200-计算机/260-Android/BroadcastReceiver\|BroadcastReceiver]]
 - [[200-计算机/260-Android/ContentProvider\|ContentProvider]]
 - [[200-计算机/260-Android/IntentFilter\|IntentFilter]]
+
+## Jetpack组件
+- [[200-计算机/260-Android/DataBinding\|DataBinding]]
+- [[200-计算机/260-Android/ViewModel\|ViewModel]]
+- [[200-计算机/260-Android/LiveData\|LiveData]]
+- [[200-计算机/260-Android/Lifecycle\|Lifecycle]]
+- [[Room数据库\|Room数据库]]
+- [[Navigation\|Navigation]]
+- [[WorkerManager\|WorkerManager]]
+- [[DataStore\|DataStore]]
+- [[SplashScreen\|SplashScreen]]
+- Webkit
+- Paging3
+- Startup
+- Constraintlayout
+- DragAndDrop
+- AppSearch
+- 
+
 
 ## 通信
 - [[200-计算机/260-Android/Handler\|Handler]]
@@ -51,7 +68,7 @@
 - [[Room数据库\|Room数据库]]
 - [[SharedPreferences\|SharedPreferences]]
 - 文件存储
-- 
+- 网络接口
 
 ## View
 - [[200-计算机/260-Android/自定义View\|自定义View]]
@@ -62,6 +79,21 @@
 - [[200-计算机/260-Android/MVP\|MVP]]
 - [[200-计算机/260-Android/MVC\|MVC]]
 
+## 设计模式
+- [[单例模式\|单例模式]]
+- [[观察者模式\|观察者模式]]
+- 
+
+## 性能优化
+[[内存泄漏\|内存泄漏]]
+[[内存溢出\|内存溢出]]
+[[ANR\|ANR]]
+
+
+## Android异常
+[[广播阻塞\|广播阻塞]]
+
+
 ## 适配
 - 屏幕适配
 - 版本适配
@@ -69,6 +101,11 @@
 ## Git
 [[200-计算机/260-Android/Git\|Git]]
 
+## 三方库
+
+## XML
+[[Drawable\|Drawable]]
+[[shape\|shape]]
 
 ## 参考资料
 [Java 面试指南 | JavaGuide(Java面试+学习指南)](https://javaguide.cn/)
