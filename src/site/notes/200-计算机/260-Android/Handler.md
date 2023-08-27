@@ -16,7 +16,12 @@
 -   prapare()方法：保证每个线程最多只有一个Looper对象。 　
     
 -   looper()方法：启动Looper，使用一个死循环不断取出MessageQueue中的消息，并将取出的消息分给对应的Handler进行处理。 　
-    
+
+## 主线程的looper怎么来的？
+```
+Looper.getMainLooper()//获取主线程的Looper对象
+ThreadLocal
+```
 
 **MessageQueue**:
 
