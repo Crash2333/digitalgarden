@@ -1,9 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/200-计算机/260-Android/kotlin/","noteIcon":""}
+dg-publish: true
+date: 2023-08-23
+tags: []
 ---
 
 
+### 方法作为参数传递
+```
+fun setOnClickListener(l: (v: View) -> Unit)
+```
 
+#### Java调用kotlin函数，传Function作为参数
+
+java里面没有Unit的概念，我们定义返回Unit类型。
+那么java的的写法就是返回`null`，这回直接导致空指针。
+此时改成返回int类型的值
+
+```
+foo(() -> {
+    // Here should be a code you need
+    return null;//返回Unit类型
+});
+
+foo(() -> {
+    // Here should be a code you need
+    return 0; //返回int类型
+});
+
+```
 
 
 [[200-计算机/260-Android/谱写 Kotlin 面试指南三部曲 - 基础篇\|谱写 Kotlin 面试指南三部曲 - 基础篇]]
