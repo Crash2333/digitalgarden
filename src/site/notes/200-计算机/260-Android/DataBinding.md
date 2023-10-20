@@ -1,7 +1,9 @@
 ---
 dg-publish: true
 date: 2023-03-02
-tags: [Android/MVVM]
+tags:
+  - Android/MVVM
+  - DataBinding
 ---
 谷歌推出的数据绑定库，既支持单向绑定，也支持双向绑定。一般是和[[200-计算机/260-Android/ViewModel\|ViewModel]]搭配使用。
 
@@ -34,3 +36,5 @@ DataBindingUtil.bind(view) //关联Dialog
 DataBindingUtil.setContentView(this, getLayout()) //关联Activity
 ```
 
+
+[[200-计算机/260-Android/DataBinding中使用resId设置ImageView图片\|DataBinding中使用resId设置ImageView图片]]
