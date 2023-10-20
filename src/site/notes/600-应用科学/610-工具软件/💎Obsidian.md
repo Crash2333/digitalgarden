@@ -14,6 +14,7 @@
 
 
 ## 插件
+- [[600-应用科学/620-快捷键_插件/621-obsidian/🔌Excalidraw\|🔌Excalidraw]]
 - [[600-应用科学/620-快捷键_插件/621-obsidian/🔌Obsidian Digital Garden\|🔌Obsidian Digital Garden]]
 - [[600-应用科学/620-快捷键_插件/621-obsidian/🔌Dataview\|🔌Dataview]]
 
