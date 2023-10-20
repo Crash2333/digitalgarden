@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/600-应用科学/610-工具软件/AndroidStudio/","noteIcon":""}
+dg-publish: true
+date: 2023-09-06
+tags: []
 ---
-
 
 
 ## 常用设置
 [[000-总类/090-Blog/AndroidStudio设置字体大小\|AndroidStudio设置字体大小]]
+[[Local History\|Local History]]
 #### 自动导包
 ```
 File --> Settings --> Editor --> General --> Auto Import --> 勾选上 optimize imports on the fly 和 add unambiguous imports on the fly 的选项即可
