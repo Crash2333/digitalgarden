@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/200-计算机/260-Android/Android面试/","tags":["面试/Android"],"noteIcon":""}
+dg-publish: true
+date: 2023-03-01
+tags:
+  - 面试/Android
+  - Java
 ---
-
 
 [[000-总类/090-Blog/车载开发\|车载开发]]
 [[200-计算机/260-Android/代码分支管理\|代码分支管理]]
@@ -39,15 +42,15 @@
 - [[200-计算机/260-Android/ViewModel\|ViewModel]]
 - [[200-计算机/260-Android/LiveData\|LiveData]]
 - [[200-计算机/260-Android/Lifecycle\|Lifecycle]]
-- [[Room数据库\|Room数据库]]
-- [[Navigation\|Navigation]]
+- [[200-计算机/260-Android/Room数据库\|Room数据库]]
+- [[200-计算机/260-Android/Navigation\|Navigation]]
 - [[WorkerManager\|WorkerManager]]
-- [[DataStore\|DataStore]]
-- [[SplashScreen\|SplashScreen]]
+- [[200-计算机/260-Android/DataStore\|DataStore]]
+- [[200-计算机/260-Android/SplashScreen\|SplashScreen]]
 - Webkit
 - Paging3
 - Startup
-- Constraintlayout
+- [[200-计算机/260-Android/Constraintlayout\|Constraintlayout]]
 - DragAndDrop
 - AppSearch
 - 
@@ -65,8 +68,8 @@
 - 数据库
 
 ## 数据存储
-- [[Room数据库\|Room数据库]]
-- [[SharedPreferences\|SharedPreferences]]
+- [[200-计算机/260-Android/Room数据库\|Room数据库]]
+- [[200-计算机/260-Android/SharedPreferences\|SharedPreferences]]
 - 文件存储
 - 网络接口
 
@@ -104,7 +107,7 @@
 ## 三方库
 
 ## XML
-[[Drawable\|Drawable]]
+[[200-计算机/260-Android/Drawable\|Drawable]]
 [[shape\|shape]]
 
 ## 参考资料
