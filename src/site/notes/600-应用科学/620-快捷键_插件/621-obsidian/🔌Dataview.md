@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-应用科学/620-快捷键_插件/621-obsidian/🔌Dataview/","tags":["Obsidian/Plugin","Plugin/Obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/600-应用科学/620-快捷键_插件/621-obsidian/🔌Dataview/","tags":["Plugin/Obsidian"],"noteIcon":""}
 ---
 
 
