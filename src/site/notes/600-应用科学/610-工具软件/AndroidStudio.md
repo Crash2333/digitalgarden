@@ -1,9 +1,16 @@
 ---
-dg-publish: true
-date: 2023-09-06
-tags: []
+{"dg-publish":true,"permalink":"/600-应用科学/610-工具软件/AndroidStudio/","noteIcon":""}
 ---
 
+## 常用插件
+- [[RainbowBrackets\|RainbowBrackets]]
+- [[MarioProgressBar\|MarioProgressBar]]
+- [[JSONToKotlinClass ​\|JSONToKotlinClass ​]]
+- [[JsonFormatter\|JsonFormatter]]
+- [[Codeium\|Codeium]]
+- [[CodeGeeX\|CodeGeeX]]
+
+{ .block-language-dataview}
 
 ## 常用设置
 [[000-总类/090-Blog/AndroidStudio设置字体大小\|AndroidStudio设置字体大小]]
