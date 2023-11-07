@@ -3,6 +3,7 @@
 ---
 
 ## 常用插件
+- [[PlantUMLParser\|PlantUMLParser]]
 - [[RainbowBrackets\|RainbowBrackets]]
 - [[MarioProgressBar\|MarioProgressBar]]
 - [[JSONToKotlinClass ​\|JSONToKotlinClass ​]]
