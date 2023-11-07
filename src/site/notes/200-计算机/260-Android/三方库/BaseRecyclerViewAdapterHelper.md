@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-date: 2023-10-07
-tags:
-  - RecyclerView/Adapter
+{"dg-publish":true,"permalink":"/200-计算机/260-Android/三方库/BaseRecyclerViewAdapterHelper/","tags":["RecyclerView/Adapter"],"noteIcon":""}
 ---
+
 
 
 
