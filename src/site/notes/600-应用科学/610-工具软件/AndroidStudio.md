@@ -3,6 +3,7 @@
 ---
 
 ## 常用插件
+- [[KeyPromoterX\|KeyPromoterX]]
 - [[PlantUMLParser\|PlantUMLParser]]
 - [[RainbowBrackets\|RainbowBrackets]]
 - [[MarioProgressBar\|MarioProgressBar]]
