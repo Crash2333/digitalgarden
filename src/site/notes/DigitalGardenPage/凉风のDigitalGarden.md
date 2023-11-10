@@ -81,6 +81,7 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 
 ## 工具箱
 [[Windows软件汇总\|Windows软件汇总]]
+[[AndroidStudio插件汇总\|AndroidStudio插件汇总]]
 
 
 
