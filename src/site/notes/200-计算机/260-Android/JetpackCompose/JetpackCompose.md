@@ -5,6 +5,9 @@
 
 [[可组合函数\|可组合函数]]
 
+[[remember函数\|remember函数]]
+
+
 [使用 Compose 进行导航  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/navigation?hl=zh-cn)
 
 ## 参考资料
