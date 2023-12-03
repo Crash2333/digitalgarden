@@ -23,28 +23,7 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 这是我的[[000-总类/作息时间表\|作息时间表]]，我将尽力达到表中的规划。毕竟计划赶不上变化。
 
 
-## 我的待办
-| File                                                            | 开始时间               |
-| --------------------------------------------------------------- | ------------------ |
-| [[Weekly/2023/2023W45\|2023W45]]                             | October 24, 2023   |
-| [[200-计算机/260-Android/ViewAnimation\|ViewAnimation]]         | October 17, 2023   |
-| [[200-计算机/260-Android/PropertyAnimation\|PropertyAnimation]] | October 17, 2023   |
-| [[200-计算机/260-Android/ViewStub\|ViewStub]]                   | September 23, 2023 |
-| [[200-计算机/260-Android/三方库/Glide\|Glide]]                     | September 19, 2023 |
-| [[200-计算机/260-Android/三方库/AndroidUtilCode\|AndroidUtilCode]] | September 19, 2023 |
-| [[200-计算机/260-Android/ImageView\|ImageView]]                 | September 19, 2023 |
-| [[壶铃硬拉\|壶铃硬拉]]                                               | September 09, 2023 |
-| [[Weekly/2023/2023W37\|2023W37]]                             | September 05, 2023 |
-| [[Weekly/2023/2023W36\|2023W36]]                             | August 28, 2023    |
-| [[500-自然科学/印钞税\|印钞税]]                                        | July 09, 2023      |
-| [[Weekly/2023/2023W28\|2023W28]]                             | July 03, 2023      |
-| [[500-自然科学/WebDAV\|WebDAV]]                                  | April 01, 2023     |
-| [[200-计算机/260-Android/onResume\|onResume]]                   | March 01, 2023     |
-| [[200-计算机/260-Android/onPause\|onPause]]                     | March 01, 2023     |
-| [[200-计算机/260-Android/onRestart\|onRestart]]                 | March 01, 2023     |
-| [[000-总类/050-写作/💎Obsidian话题引用\|💎Obsidian话题引用]]             | February 18, 2023  |
 
-{ .block-language-dataview}
 
 
 
@@ -54,8 +33,8 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 
 | File                                                        | 开始时间     | 状态 | 进度   |
 | ----------------------------------------------------------- | -------- | -- | ---- |
-| [[Books/《纳瓦尔宝典》_20230822085338\|《纳瓦尔宝典》_20230822085338]] | 20230723 | 读完 | 100% |
 | [[Books/《置身事内》\|《置身事内》]]                                 | 20230701 | 读完 | 100% |
+| [[Books/《纳瓦尔宝典》_20230822085338\|《纳瓦尔宝典》_20230822085338]] | 20230723 | 读完 | 100% |
 | [[Books/《壶铃-极简极致》\|《壶铃-极简极致》]]                           | 20230624 | 在读 | 50%  |
 
 { .block-language-dataview}
@@ -84,7 +63,45 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 [[AndroidStudio插件汇总\|AndroidStudio插件汇总]]
 
 
+## 探索
+[[发现有趣的新事物\|发现有趣的新事物]]
 
+## 玩一玩
+| File                  | 开始时间              |
+| --------------------- | ----------------- |
+| [[AMiner\|AMiner]] | December 03, 2023 |
+
+{ .block-language-dataview}
+## 我的待办
+| File                                                            | 开始时间               |
+| --------------------------------------------------------------- | ------------------ |
+| [[NavHostController\|NavHostController]]                     | December 03, 2023  |
+| [[NavHost\|NavHost]]                                         | December 03, 2023  |
+| [[kts文件\|kts文件]]                                             | December 03, 2023  |
+| [[Compose跑马灯\|Compose跑马灯]]                                   | December 03, 2023  |
+| [[Compose权限\|Compose权限]]                                     | December 03, 2023  |
+| [[ComposeException003\|ComposeException003]]                 | December 03, 2023  |
+| [[BottomNavigation\|BottomNavigation]]                       | December 03, 2023  |
+| [[AMiner\|AMiner]]                                           | December 03, 2023  |
+| [[Weekly/2023/2023W45\|2023W45]]                             | October 24, 2023   |
+| [[200-计算机/260-Android/ViewAnimation\|ViewAnimation]]         | October 17, 2023   |
+| [[200-计算机/260-Android/PropertyAnimation\|PropertyAnimation]] | October 17, 2023   |
+| [[200-计算机/260-Android/ViewStub\|ViewStub]]                   | September 23, 2023 |
+| [[200-计算机/260-Android/三方库/Glide\|Glide]]                     | September 19, 2023 |
+| [[200-计算机/260-Android/三方库/AndroidUtilCode\|AndroidUtilCode]] | September 19, 2023 |
+| [[200-计算机/260-Android/ImageView\|ImageView]]                 | September 19, 2023 |
+| [[壶铃硬拉\|壶铃硬拉]]                                               | September 09, 2023 |
+| [[Weekly/2023/2023W37\|2023W37]]                             | September 05, 2023 |
+| [[Weekly/2023/2023W36\|2023W36]]                             | August 28, 2023    |
+| [[500-自然科学/印钞税\|印钞税]]                                        | July 09, 2023      |
+| [[Weekly/2023/2023W28\|2023W28]]                             | July 03, 2023      |
+| [[500-自然科学/WebDAV\|WebDAV]]                                  | April 01, 2023     |
+| [[200-计算机/260-Android/onResume\|onResume]]                   | March 01, 2023     |
+| [[200-计算机/260-Android/onRestart\|onRestart]]                 | March 01, 2023     |
+| [[200-计算机/260-Android/onPause\|onPause]]                     | March 01, 2023     |
+| [[000-总类/050-写作/💎Obsidian话题引用\|💎Obsidian话题引用]]             | February 18, 2023  |
+
+{ .block-language-dataview}
 
 
 
