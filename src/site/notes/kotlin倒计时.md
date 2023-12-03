@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-date: 2023-09-26
-tags:
-  - koltin
-  - Android
+{"dg-publish":true,"permalink":"/kotlin倒计时/","tags":["koltin","Android"],"noteIcon":""}
 ---
+
 ```
 var TotalTime : Long = 2*60*60*1000 //总时长 2小时
     var countDownTimer=object : CountDownTimer(TotalTime,1000){//1000ms运行一次onTick里面的方法
