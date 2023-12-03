@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/📄DocTranslator/","tags":["Web/Tools","翻译"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/📄DocTranslator/","tags":["Web/Tools","Translat/文档"],"noteIcon":""}
 ---
 
 **立即翻译任何文档格式为任意语言**，并保持排版不变。免费。
