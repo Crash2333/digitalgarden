@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-date: 2023-03-01
-tags:
-  - 面试/Android
-  - Java
+{"dg-publish":true,"permalink":"/200-计算机/260-Android/Android面试/","tags":["面试/Android","Java"],"noteIcon":""}
 ---
+
 
 [[000-总类/090-Blog/车载开发\|车载开发]]
 [[200-计算机/260-Android/代码分支管理\|代码分支管理]]
@@ -78,9 +75,10 @@ tags:
 - [[200-计算机/260-Android/View事件分发\|View事件分发]]
 
 ## 架构
-- [[200-计算机/260-Android/MVVM\|MVVM]]
-- [[200-计算机/260-Android/MVP\|MVP]]
-- [[200-计算机/260-Android/MVC\|MVC]]
+[[Android架构\|Android架构]]
+
+## 测试
+[[Android测试\|Android测试]]
 
 ## 设计模式
 - [[单例模式\|单例模式]]
