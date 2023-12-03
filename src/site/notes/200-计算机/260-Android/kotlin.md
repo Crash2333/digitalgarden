@@ -1,9 +1,14 @@
 ---
-dg-publish: true
-date: 2023-08-23
-tags: []
+{"dg-publish":true,"permalink":"/200-计算机/260-Android/kotlin/","noteIcon":""}
 ---
 
+## 关键字
+- [[sealed\|sealed]]
+- [[lazy\|lazy]]
+
+{ .block-language-dataview}
+
+[[lazy\|lazy]]
 
 ### 方法作为参数传递
 ```
