@@ -3,20 +3,21 @@
 ---
 
 ## 常用插件
-- [[KeyPromoterX\|KeyPromoterX]]
-- [[PlantUMLParser\|PlantUMLParser]]
-- [[RainbowBrackets\|RainbowBrackets]]
-- [[MarioProgressBar\|MarioProgressBar]]
-- [[JSONToKotlinClass ​\|JSONToKotlinClass ​]]
-- [[JsonFormatter\|JsonFormatter]]
-- [[Codeium\|Codeium]]
-- [[CodeGeeX\|CodeGeeX]]
+- [[600-应用科学/610-工具软件/KeyPromoterX\|KeyPromoterX]]
+- [[600-应用科学/610-工具软件/AGB\|AGB]]
+- [[600-应用科学/610-工具软件/PlantUMLParser\|PlantUMLParser]]
+- [[600-应用科学/610-工具软件/RainbowBrackets\|RainbowBrackets]]
+- [[600-应用科学/610-工具软件/MarioProgressBar\|MarioProgressBar]]
+- [[600-应用科学/610-工具软件/JsonFormatter\|JsonFormatter]]
+- [[600-应用科学/610-工具软件/JSONToKotlinClass ​\|JSONToKotlinClass ​]]
+- [[600-应用科学/610-工具软件/Codeium\|Codeium]]
+- [[600-应用科学/610-工具软件/CodeGeeX\|CodeGeeX]]
 
 { .block-language-dataview}
 
 ## 常用设置
 [[000-总类/090-Blog/AndroidStudio设置字体大小\|AndroidStudio设置字体大小]]
-[[Local History\|Local History]]
+[[200-计算机/260-Android/Local History\|Local History]]
 #### 自动导包
 ```
 File --> Settings --> Editor --> General --> Auto Import --> 勾选上 optimize imports on the fly 和 add unambiguous imports on the fly 的选项即可
