@@ -6,7 +6,7 @@
 
 hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Android]]工程师。写过几千行代码，带过十几人团队。
 
-这是我的第二大脑🧠，也是我的数字花园🏡。这座花园是由[[600-应用科学/610-工具软件/💎Obsidian\|💎Obsidian]]+[[600-应用科学/620-快捷键_插件/621-obsidian/🔌Obsidian Digital Garden\|🔌Obsidian Digital Garden]]+[[600-应用科学/610-工具软件/Github\|Github]]+[[Netlify\|Netlify]]打造的。使用[giscus](https://giscus.app/zh-CN)实现评论功能。
+这是我的第二大脑🧠，也是我的数字花园🏡。这座花园是由[[600-应用科学/610-工具软件/💎Obsidian\|💎Obsidian]]+[[600-应用科学/620-快捷键_插件/621-obsidian/🔌Obsidian Digital Garden\|🔌Obsidian Digital Garden]]+[[600-应用科学/610-工具软件/Github\|Github]]+[[600-应用科学/610-工具软件/Netlify\|Netlify]]打造的。使用[giscus](https://giscus.app/zh-CN)实现评论功能。
 
 
 ### 2023年8月24日
@@ -59,47 +59,70 @@ hello👋，我是凉风。一名[[200-计算机/260-Android/Android面试\|Andr
 
 
 ## 工具箱
-[[Windows软件汇总\|Windows软件汇总]]
-[[AndroidStudio插件汇总\|AndroidStudio插件汇总]]
 
+- [[000-总类/Chrome插件汇总\|Chrome插件汇总]]
+- [[000-总类/Chrome工具汇总\|Chrome工具汇总]]
+- [[000-总类/AndroidDebug工具汇总\|AndroidDebug工具汇总]]
+- [[000-总类/AI工具汇总\|AI工具汇总]]
+- [[000-总类/AndroidStudio插件汇总\|AndroidStudio插件汇总]]
+- [[000-总类/Windows软件汇总\|Windows软件汇总]]
+
+{ .block-language-dataview}
+[[000-总类/AndroidDebug工具汇总\|AndroidDebug工具汇总]]
 
 ## 探索
 [[发现有趣的新事物\|发现有趣的新事物]]
 
 ## 玩一玩
-| File                  | 开始时间              |
-| --------------------- | ----------------- |
-| [[AMiner\|AMiner]] | December 03, 2023 |
+| File                                    | 开始时间              |
+| --------------------------------------- | ----------------- |
+| [[公益学术平台\|公益学术平台]]                   | December 15, 2023 |
+| [[gpt-crawler\|gpt-crawler]]         | December 15, 2023 |
+| [[EpubPress\|EpubPress]]             | December 15, 2023 |
+| [[Citra\|Citra]]                     | December 15, 2023 |
+| [[600-应用科学/610-工具软件/AMiner\|AMiner]] | December 03, 2023 |
 
 { .block-language-dataview}
 ## 我的待办
-| File                                                            | 开始时间               |
-| --------------------------------------------------------------- | ------------------ |
-| [[NavHostController\|NavHostController]]                     | December 03, 2023  |
-| [[NavHost\|NavHost]]                                         | December 03, 2023  |
-| [[kts文件\|kts文件]]                                             | December 03, 2023  |
-| [[Compose跑马灯\|Compose跑马灯]]                                   | December 03, 2023  |
-| [[Compose权限\|Compose权限]]                                     | December 03, 2023  |
-| [[ComposeException003\|ComposeException003]]                 | December 03, 2023  |
-| [[BottomNavigation\|BottomNavigation]]                       | December 03, 2023  |
-| [[AMiner\|AMiner]]                                           | December 03, 2023  |
-| [[Weekly/2023/2023W45\|2023W45]]                             | October 24, 2023   |
-| [[200-计算机/260-Android/ViewAnimation\|ViewAnimation]]         | October 17, 2023   |
-| [[200-计算机/260-Android/PropertyAnimation\|PropertyAnimation]] | October 17, 2023   |
-| [[200-计算机/260-Android/ViewStub\|ViewStub]]                   | September 23, 2023 |
-| [[200-计算机/260-Android/三方库/Glide\|Glide]]                     | September 19, 2023 |
-| [[200-计算机/260-Android/三方库/AndroidUtilCode\|AndroidUtilCode]] | September 19, 2023 |
-| [[200-计算机/260-Android/ImageView\|ImageView]]                 | September 19, 2023 |
-| [[壶铃硬拉\|壶铃硬拉]]                                               | September 09, 2023 |
-| [[Weekly/2023/2023W37\|2023W37]]                             | September 05, 2023 |
-| [[Weekly/2023/2023W36\|2023W36]]                             | August 28, 2023    |
-| [[500-自然科学/印钞税\|印钞税]]                                        | July 09, 2023      |
-| [[Weekly/2023/2023W28\|2023W28]]                             | July 03, 2023      |
-| [[500-自然科学/WebDAV\|WebDAV]]                                  | April 01, 2023     |
-| [[200-计算机/260-Android/onResume\|onResume]]                   | March 01, 2023     |
-| [[200-计算机/260-Android/onRestart\|onRestart]]                 | March 01, 2023     |
-| [[200-计算机/260-Android/onPause\|onPause]]                     | March 01, 2023     |
-| [[000-总类/050-写作/💎Obsidian话题引用\|💎Obsidian话题引用]]             | February 18, 2023  |
+| File                                                                           | 开始时间               |
+| ------------------------------------------------------------------------------ | ------------------ |
+| [[观察者模式\|观察者模式]]                                                            | December 15, 2023  |
+| [[单例模式\|单例模式]]                                                              | December 15, 2023  |
+| [[公益学术平台\|公益学术平台]]                                                          | December 15, 2023  |
+| [[Set\|Set]]                                                                | December 15, 2023  |
+| [[gpt-crawler\|gpt-crawler]]                                                | December 15, 2023  |
+| [[EpubPress\|EpubPress]]                                                    | December 15, 2023  |
+| [[Citra\|Citra]]                                                            | December 15, 2023  |
+| [[200-计算机/260-Android/Kotlin/StateFlow\|StateFlow]]                         | December 12, 2023  |
+| [[200-计算机/260-Android/Kotlin/SharedFlow\|SharedFlow]]                       | December 12, 2023  |
+| [[Android端切图规范\|Android端切图规范]]                                              | December 11, 2023  |
+| [[200-计算机/260-Android/WorkerManager\|WorkerManager]]                        | December 06, 2023  |
+| [[600-应用科学/610-工具软件/AMiner\|AMiner]]                                        | December 03, 2023  |
+| [[200-计算机/260-Android/Kotlin/kts文件\|kts文件]]                                 | December 03, 2023  |
+| [[200-计算机/260-Android/JetpackCompose/NavHostController\|NavHostController]] | December 03, 2023  |
+| [[200-计算机/260-Android/JetpackCompose/NavHost\|NavHost]]                     | December 03, 2023  |
+| [[200-计算机/260-Android/JetpackCompose/Compose权限\|Compose权限]]                 | December 03, 2023  |
+| [[200-计算机/260-Android/JetpackCompose/Compose跑马灯\|Compose跑马灯]]               | December 03, 2023  |
+| [[200-计算机/260-Android/JetpackCompose/BottomNavigation\|BottomNavigation]]   | December 03, 2023  |
+| [[200-计算机/260-Android/Exception/ComposeException003\|ComposeException003]]  | December 03, 2023  |
+| [[Weekly/2023/2023W45\|2023W45]]                                            | October 24, 2023   |
+| [[200-计算机/260-Android/ViewAnimation\|ViewAnimation]]                        | October 17, 2023   |
+| [[200-计算机/260-Android/PropertyAnimation\|PropertyAnimation]]                | October 17, 2023   |
+| [[200-计算机/260-Android/ViewStub\|ViewStub]]                                  | September 23, 2023 |
+| [[200-计算机/260-Android/SplashScreen\|SplashScreen]]                          | September 23, 2023 |
+| [[200-计算机/260-Android/三方库/Glide\|Glide]]                                    | September 19, 2023 |
+| [[200-计算机/260-Android/三方库/AndroidUtilCode\|AndroidUtilCode]]                | September 19, 2023 |
+| [[200-计算机/260-Android/ImageView\|ImageView]]                                | September 19, 2023 |
+| [[壶铃硬拉\|壶铃硬拉]]                                                              | September 09, 2023 |
+| [[Weekly/2023/2023W37\|2023W37]]                                            | September 05, 2023 |
+| [[Weekly/2023/2023W36\|2023W36]]                                            | August 28, 2023    |
+| [[500-自然科学/印钞税\|印钞税]]                                                       | July 09, 2023      |
+| [[Weekly/2023/2023W28\|2023W28]]                                            | July 03, 2023      |
+| [[500-自然科学/WebDAV\|WebDAV]]                                                 | April 01, 2023     |
+| [[200-计算机/260-Android/onPause\|onPause]]                                    | March 01, 2023     |
+| [[200-计算机/260-Android/onResume\|onResume]]                                  | March 01, 2023     |
+| [[200-计算机/260-Android/onRestart\|onRestart]]                                | March 01, 2023     |
+| [[000-总类/050-写作/💎Obsidian话题引用\|💎Obsidian话题引用]]                            | February 18, 2023  |
 
 { .block-language-dataview}
 
