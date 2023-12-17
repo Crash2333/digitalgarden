@@ -25,8 +25,10 @@
 
 ## kotlin基础
 [[200-计算机/260-Android/kotlin\|kotlin]]
+[[200-计算机/260-Android/KotlinFlow\|KotlinFlow]]
 
-
+## Compose
+[[200-计算机/260-Android/JetpackCompose/JetpackCompose\|JetpackCompose]]
 ## 四大组件
 - [[200-计算机/260-Android/Activity\|Activity]]
 - [[200-计算机/260-Android/Service\|Service]]
@@ -35,15 +37,6 @@
 - [[200-计算机/260-Android/IntentFilter\|IntentFilter]]
 
 ## Jetpack组件
-- [[200-计算机/260-Android/DataBinding\|DataBinding]]
-- [[200-计算机/260-Android/ViewModel\|ViewModel]]
-- [[200-计算机/260-Android/LiveData\|LiveData]]
-- [[200-计算机/260-Android/Lifecycle\|Lifecycle]]
-- [[200-计算机/260-Android/Room数据库\|Room数据库]]
-- [[200-计算机/260-Android/Navigation\|Navigation]]
-- [[WorkerManager\|WorkerManager]]
-- [[200-计算机/260-Android/DataStore\|DataStore]]
-- [[200-计算机/260-Android/SplashScreen\|SplashScreen]]
 - Webkit
 - Paging3
 - Startup
@@ -51,18 +44,31 @@
 - DragAndDrop
 - AppSearch
 - 
+- [[200-计算机/260-Android/WorkerManager\|WorkerManager]]
+- [[200-计算机/260-Android/Navigation\|Navigation]]
+- [[200-计算机/260-Android/DataStore\|DataStore]]
+- [[200-计算机/260-Android/SplashScreen\|SplashScreen]]
+- [[200-计算机/260-Android/Constraintlayout\|Constraintlayout]]
+- [[200-计算机/260-Android/Room数据库\|Room数据库]]
+- [[200-计算机/260-Android/ViewModel\|ViewModel]]
+- [[200-计算机/260-Android/LiveData\|LiveData]]
+- [[200-计算机/260-Android/Lifecycle\|Lifecycle]]
+- [[200-计算机/260-Android/DataBinding\|DataBinding]]
 
+{ .block-language-dataview}
 
 ## 通信
 - [[200-计算机/260-Android/Handler\|Handler]]
 - [[200-计算机/260-Android/Broadcast\|Broadcast]]
 - [[EventBus\|EventBus]]
 - Bundle
-- AIDL
+- **[[AIDL\|AIDL]]**
 - ContentProvider
 - 接口
 - 文件
 - 数据库
+
+
 
 ## 数据存储
 - [[200-计算机/260-Android/Room数据库\|Room数据库]]
@@ -75,20 +81,19 @@
 - [[200-计算机/260-Android/View事件分发\|View事件分发]]
 
 ## 架构
-[[Android架构\|Android架构]]
+[[200-计算机/260-Android/Android架构\|Android架构]]
 
 ## 测试
-[[Android测试\|Android测试]]
+[[200-计算机/260-Android/Android测试\|Android测试]]
 
-## 设计模式
-- [[单例模式\|单例模式]]
-- [[观察者模式\|观察者模式]]
-- 
+
 
 ## 性能优化
-[[内存泄漏\|内存泄漏]]
+[[200-计算机/260-Android/性能优化/内存泄漏\|内存泄漏]]
 [[内存溢出\|内存溢出]]
 [[ANR\|ANR]]
+[[冷启动\|冷启动]]
+[[全局异常捕获\|全局异常捕获]]
 
 
 ## Android异常
@@ -107,6 +112,22 @@
 ## XML
 [[200-计算机/260-Android/Drawable\|Drawable]]
 [[shape\|shape]]
+
+## 设计模式
+- [[观察者模式\|观察者模式]]
+- [[工厂模式\|工厂模式]]
+- [[单例模式\|单例模式]]
+- [[200-计算机/240-设计模式/代理模式\|代理模式]]
+
+{ .block-language-dataview}
+
+## 数据结构
+- [[观察者模式\|观察者模式]]
+- [[工厂模式\|工厂模式]]
+- [[单例模式\|单例模式]]
+- [[200-计算机/240-设计模式/代理模式\|代理模式]]
+
+{ .block-language-dataview}
 
 ## 参考资料
 [Java 面试指南 | JavaGuide(Java面试+学习指南)](https://javaguide.cn/)
