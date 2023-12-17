@@ -5,7 +5,7 @@
 
 ![](https://i.imgur.com/rzn3F9Z.png)
 
-### 说说 List, Set, Queue, Map 四者的区别？
+### 说说 List, [[Set\|Set]], Queue, Map 四者的区别？
 
 - `List`(对付顺序的好帮手): 存储的元素是有序的、可重复的。
 - `Set`(注重独一无二的性质): 存储的元素不可重复的。
