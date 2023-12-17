@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-date: 2023-09-23
-tags:
+{"dg-publish":true,"permalink":"/200-计算机/260-Android/SplashScreen/","tags":["Jetpack","TODO"],"noteIcon":""}
 ---
+
 
 
 ## 参考资料
