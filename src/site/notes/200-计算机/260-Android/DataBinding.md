@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-date: 2023-03-02
-tags:
-  - Android/MVVM
-  - DataBinding
+{"dg-publish":true,"permalink":"/200-计算机/260-Android/DataBinding/","tags":["Android/MVVM","DataBinding","Jetpack"],"noteIcon":""}
 ---
+
 谷歌推出的数据绑定库，既支持单向绑定，也支持双向绑定。一般是和[[200-计算机/260-Android/ViewModel\|ViewModel]]搭配使用。
 
 ## 用法
