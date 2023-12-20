@@ -33,5 +33,8 @@ ThreadLocal
 
 ![](https://imgur.com/2vg53fk.png)
 
+
+![](https://i.imgur.com/KqFLMqu.jpg)
+
 ## 参考资料
 [AndroidNote/Handler,Looper,MessageQueue关系](https://github.com/linsir6/AndroidNote/blob/master/AndroidNote/Android%E5%9F%BA%E7%A1%80/Handler,Looper,MessageQueue%E5%85%B3%E7%B3%BB.md)
