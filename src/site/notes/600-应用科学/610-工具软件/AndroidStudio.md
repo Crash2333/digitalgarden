@@ -8,10 +8,10 @@
 - [[600-应用科学/610-工具软件/PlantUMLParser\|PlantUMLParser]]
 - [[600-应用科学/610-工具软件/RainbowBrackets\|RainbowBrackets]]
 - [[600-应用科学/610-工具软件/MarioProgressBar\|MarioProgressBar]]
-- [[600-应用科学/610-工具软件/JsonFormatter\|JsonFormatter]]
 - [[600-应用科学/610-工具软件/JSONToKotlinClass ​\|JSONToKotlinClass ​]]
-- [[600-应用科学/610-工具软件/Codeium\|Codeium]]
+- [[600-应用科学/610-工具软件/JsonFormatter\|JsonFormatter]]
 - [[600-应用科学/610-工具软件/CodeGeeX\|CodeGeeX]]
+- [[600-应用科学/610-工具软件/Codeium\|Codeium]]
 
 { .block-language-dataview}
 
@@ -111,3 +111,4 @@ File --> Settings --> Appearance & Behavior --> System Settings --> Updates--> A
 ## 参考资料
 [Android Studio常用设置和快捷键](https://github.com/AweiLoveAndroid/The-pit-of-the-Android-Studio/blob/master/readme/Android%20Studio%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE%E5%92%8C%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 [键盘快捷键  |  Android Studio  |  Android Developers](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=zh-cn)
+[Android Studio历史版本下载地址汇总 - Stars-One的杂货小窝](https://stars-one.site/2023/06/03/android-studio-version-list)
