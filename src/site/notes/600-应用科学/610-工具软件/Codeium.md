@@ -6,3 +6,4 @@ Codeium是一款智能编程助手，提供超过40种语言的代码完成工�
 
 ## 参考资料
 [Codeium · Free AI Code Completion & Chat](https://codeium.com/)
+[Chat with Codeium | Codeium · Free AI Code Completion & Chat](https://codeium.com/live/general)
