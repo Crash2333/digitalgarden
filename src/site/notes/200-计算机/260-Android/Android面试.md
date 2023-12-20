@@ -27,6 +27,9 @@
 [[200-计算机/260-Android/kotlin\|kotlin]]
 [[200-计算机/260-Android/KotlinFlow\|KotlinFlow]]
 
+## 架构
+[[200-计算机/260-Android/Android架构\|Android架构]]
+
 ## Compose
 [[200-计算机/260-Android/JetpackCompose/JetpackCompose\|JetpackCompose]]
 ## 四大组件
@@ -80,8 +83,9 @@
 - [[200-计算机/260-Android/自定义View\|自定义View]]
 - [[200-计算机/260-Android/View事件分发\|View事件分发]]
 
-## 架构
-[[200-计算机/260-Android/Android架构\|Android架构]]
+## Gradle
+[[AndroidGradle\|AndroidGradle]]
+
 
 ## 测试
 [[200-计算机/260-Android/Android测试\|Android测试]]
