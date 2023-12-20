@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/000-总类/Chrome插件汇总/","tags":["汇总/ChromePlugin"],"noteIcon":""}
 ---
 
+- [[iHomepage\|iHomepage]]
+- [[EpubKit\|EpubKit]]
 - [[EpubPress\|EpubPress]]
 - [[二维码生成器\|二维码生成器]]
 - [[600-应用科学/610-工具软件/沉浸式翻译\|沉浸式翻译]]
