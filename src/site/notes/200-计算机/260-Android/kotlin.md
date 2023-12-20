@@ -12,9 +12,9 @@
 
 { .block-language-dataview}
 ## 函数
-- [[200-计算机/260-Android/Kotlin/高阶函数\|高阶函数]]
-- [[200-计算机/260-Android/Kotlin/挂起函数\|挂起函数]]
 - [[200-计算机/260-Android/Kotlin/Unit\|Unit]]
+- [[200-计算机/260-Android/Kotlin/挂起函数\|挂起函数]]
+- [[200-计算机/260-Android/Kotlin/高阶函数\|高阶函数]]
 - [[200-计算机/260-Android/Kotlin/匿名函数\|匿名函数]]
 
 { .block-language-dataview}
@@ -23,8 +23,8 @@
 ## 协程
 [[200-计算机/260-Android/KotlinFlow\|KotlinFlow]]
 ## 关键字
-- [[200-计算机/260-Android/Kotlin/internal\|internal]]
 - [[200-计算机/260-Android/Kotlin/is\|is]]
+- [[200-计算机/260-Android/Kotlin/internal\|internal]]
 - [[200-计算机/260-Android/Kotlin/init\|init]]
 - [[200-计算机/260-Android/Kotlin/as\|as]]
 - [[200-计算机/260-Android/Kotlin/by\|by]]
