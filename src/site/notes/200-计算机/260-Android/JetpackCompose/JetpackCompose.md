@@ -5,8 +5,8 @@
 ## 待完善卡片
 - [[200-计算机/260-Android/JetpackCompose/NavHostController\|NavHostController]]
 - [[200-计算机/260-Android/JetpackCompose/NavHost\|NavHost]]
-- [[200-计算机/260-Android/JetpackCompose/Compose权限\|Compose权限]]
 - [[200-计算机/260-Android/JetpackCompose/Compose跑马灯\|Compose跑马灯]]
+- [[200-计算机/260-Android/JetpackCompose/Compose权限\|Compose权限]]
 - [[200-计算机/260-Android/JetpackCompose/BottomNavigation\|BottomNavigation]]
 - [[200-计算机/260-Android/Exception/ComposeException003\|ComposeException003]]
 
@@ -37,8 +37,8 @@
 - [[200-计算机/260-Android/JetpackCompose/Row\|Row]]
 - [[200-计算机/260-Android/JetpackCompose/Indicator\|Indicator]]
 - [[200-计算机/260-Android/JetpackCompose/HorizontalPager\|HorizontalPager]]
-- [[200-计算机/260-Android/JetpackCompose/Box\|Box]]
 - [[200-计算机/260-Android/JetpackCompose/Column\|Column]]
+- [[200-计算机/260-Android/JetpackCompose/Box\|Box]]
 
 { .block-language-dataview}
 
