@@ -10,6 +10,7 @@
 
 { .block-language-dataview}
 ## 效率
+- [[uTools\|uTools]]
 - [[600-应用科学/610-工具软件/ZoomIt\|ZoomIt]]
 - [[600-应用科学/610-工具软件/WingetUI\|WingetUI]]
 - [[600-应用科学/610-工具软件/GeekDesk\|GeekDesk]]
