@@ -4,8 +4,8 @@
 
 - [[200-计算机/260-Android/MVI\|MVI]]
 - [[200-计算机/260-Android/Android架构\|Android架构]]
-- [[200-计算机/260-Android/MVP\|MVP]]
 - [[200-计算机/260-Android/MVC\|MVC]]
+- [[200-计算机/260-Android/MVP\|MVP]]
 - [[200-计算机/260-Android/MVVM\|MVVM]]
 
 { .block-language-dataview}
