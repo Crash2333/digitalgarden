@@ -14,7 +14,12 @@
 | [[600-应用科学/610-工具软件/FreshRSS\|FreshRSS]]           | https://box.othing.xyz/i/      |
 
 { .block-language-dataview}
-[[fre123Weekly\|fre123Weekly]]
+
+| File                        | Link                         |
+| --------------------------- | ---------------------------- |
+| [[WebFollow\|WebFollow]] | https://webfollow.cc/welcome |
+
+{ .block-language-dataview}
 
 
 ## 影视
@@ -31,6 +36,8 @@
 ## UI
 | File                                          | Link                                             |
 | --------------------------------------------- | ------------------------------------------------ |
+| [[TrendingDesign\|TrendingDesign]]         | https://trending.design/                         |
+| [[scrnshts\|scrnshts]]                     | https://scrnshts.club/                           |
 | [[unDraw\|unDraw]]                         | https://undraw.co/illustrations                  |
 | [[NameThatColor\|NameThatColor]]           | https://chir.ag/projects/name-that-color/#E46E2E |
 | [[poster-design\|poster-design]]           | https://design.palxp.cn/home                     |
@@ -72,9 +79,28 @@
 
 
 - [[Templates/yml_rj\|yml_rj]]
+- [[Favicon\|Favicon]]
+- [[Memos\|Memos]]
+- [[TTS_Online\|TTS_Online]]
+- [[TrendingDesign\|TrendingDesign]]
+- [[Myfreemp3\|Myfreemp3]]
+- [[WeOCR\|WeOCR]]
+- [[LITEAPKS\|LITEAPKS]]
+- [[RG_ADGUARD\|RG_ADGUARD]]
+- [[GhostSecret\|GhostSecret]]
+- [[shuyuan\|shuyuan]]
+- [[免费Slogan设计制作器\|免费Slogan设计制作器]]
+- [[scrnshts\|scrnshts]]
+- [[devv\|devv]]
+- [[极简壁纸\|极简壁纸]]
+- [[DoocsMd\|DoocsMd]]
+- [[相声随身听\|相声随身听]]
+- [[Quartz\|Quartz]]
+- [[程序员做饭指南\|程序员做饭指南]]
+- [[百乐米\|百乐米]]
 - [[逗比拯救世界\|逗比拯救世界]]
-- [[WebFollow\|WebFollow]]
 - [[Bento\|Bento]]
+- [[WebFollow\|WebFollow]]
 - [[unDraw\|unDraw]]
 - [[NameThatColor\|NameThatColor]]
 - [[ipaddress\|ipaddress]]
@@ -134,8 +160,8 @@
 - [[600-应用科学/610-工具软件/Refold\|Refold]]
 - [[600-应用科学/610-工具软件/QwertyLearner\|QwertyLearner]]
 - [[600-应用科学/610-工具软件/languagereactor\|languagereactor]]
-- [[600-应用科学/610-工具软件/InternetArchive\|InternetArchive]]
 - [[600-应用科学/610-工具软件/hackway\|hackway]]
+- [[600-应用科学/610-工具软件/InternetArchive\|InternetArchive]]
 - [[600-应用科学/610-工具软件/HackerNews\|HackerNews]]
 - [[600-应用科学/610-工具软件/english-note\|english-note]]
 - [[600-应用科学/610-工具软件/wowchemy\|wowchemy]]
