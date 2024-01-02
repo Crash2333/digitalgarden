@@ -55,8 +55,8 @@
 - [[200-计算机/260-Android/Constraintlayout\|Constraintlayout]]
 - [[200-计算机/260-Android/Room数据库\|Room数据库]]
 - [[200-计算机/260-Android/ViewModel\|ViewModel]]
-- [[200-计算机/260-Android/LiveData\|LiveData]]
 - [[200-计算机/260-Android/Lifecycle\|Lifecycle]]
+- [[200-计算机/260-Android/LiveData\|LiveData]]
 - [[200-计算机/260-Android/DataBinding\|DataBinding]]
 
 { .block-language-dataview}
