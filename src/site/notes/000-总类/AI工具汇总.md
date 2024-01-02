@@ -5,8 +5,8 @@
 
 ## 编程
 - [[600-应用科学/610-工具软件/iFlyCode\|iFlyCode]]
-- [[600-应用科学/610-工具软件/Codeium\|Codeium]]
 - [[600-应用科学/610-工具软件/CodeGeeX\|CodeGeeX]]
+- [[600-应用科学/610-工具软件/Codeium\|Codeium]]
 
 { .block-language-dataview}
 - [[gpt-crawler\|gpt-crawler]]
@@ -18,8 +18,8 @@
 - [[600-应用科学/610-工具软件/Monica\|Monica]]
 - [[600-应用科学/610-工具软件/iFlyCode\|iFlyCode]]
 - [[600-应用科学/610-工具软件/讯飞星火\|讯飞星火]]
-- [[600-应用科学/610-工具软件/Codeium\|Codeium]]
 - [[600-应用科学/610-工具软件/CodeGeeX\|CodeGeeX]]
+- [[600-应用科学/610-工具软件/Codeium\|Codeium]]
 - [[600-应用科学/610-工具软件/Trancy\|Trancy]]
 
 { .block-language-dataview}
