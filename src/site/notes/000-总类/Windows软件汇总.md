@@ -18,6 +18,8 @@
 
 { .block-language-dataview}
 ## 系统优化  
+- [[AME_Wizard\|AME_Wizard]]
+- [[MSEdgeRedirect\|MSEdgeRedirect]]
 - [[PyDebloatX\|PyDebloatX]]
 - [[DefenderRemover\|DefenderRemover]]
 - [[600-应用科学/610-工具软件/MalwarePatch\|MalwarePatch]]
@@ -32,6 +34,7 @@
 
 { .block-language-dataview}
 ## 文档
+- [[Librum\|Librum]]
 - [[600-应用科学/610-工具软件/KoodoReader\|KoodoReader]]
 - [[600-应用科学/610-工具软件/Sumatra\|Sumatra]]
 
@@ -54,6 +57,7 @@
 
 { .block-language-dataview}
 ## 下载
+- [[Bilidown\|Bilidown]]
 - [[600-应用科学/610-工具软件/鼠鼠下载器\|鼠鼠下载器]]
 - [[600-应用科学/610-工具软件/BiliDownloader\|BiliDownloader]]
 
