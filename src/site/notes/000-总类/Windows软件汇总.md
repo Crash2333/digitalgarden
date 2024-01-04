@@ -18,8 +18,8 @@
 
 { .block-language-dataview}
 ## 系统优化  
-- [[AME_Wizard\|AME_Wizard]]
 - [[MSEdgeRedirect\|MSEdgeRedirect]]
+- [[AME_Wizard\|AME_Wizard]]
 - [[PyDebloatX\|PyDebloatX]]
 - [[DefenderRemover\|DefenderRemover]]
 - [[600-应用科学/610-工具软件/MalwarePatch\|MalwarePatch]]
