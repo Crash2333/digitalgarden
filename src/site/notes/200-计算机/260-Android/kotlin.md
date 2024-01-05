@@ -14,8 +14,8 @@
 ## 函数
 - [[200-计算机/260-Android/Kotlin/Unit\|Unit]]
 - [[200-计算机/260-Android/Kotlin/高阶函数\|高阶函数]]
-- [[200-计算机/260-Android/Kotlin/匿名函数\|匿名函数]]
 - [[200-计算机/260-Android/Kotlin/挂起函数\|挂起函数]]
+- [[200-计算机/260-Android/Kotlin/匿名函数\|匿名函数]]
 
 { .block-language-dataview}
 
