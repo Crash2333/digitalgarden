@@ -33,12 +33,12 @@
 { .block-language-dataview}
 ### 布局组件
 
-- [[200-计算机/260-Android/JetpackCompose/TabRow\|TabRow]]
 - [[200-计算机/260-Android/JetpackCompose/Row\|Row]]
+- [[200-计算机/260-Android/JetpackCompose/TabRow\|TabRow]]
 - [[200-计算机/260-Android/JetpackCompose/Indicator\|Indicator]]
 - [[200-计算机/260-Android/JetpackCompose/HorizontalPager\|HorizontalPager]]
-- [[200-计算机/260-Android/JetpackCompose/Box\|Box]]
 - [[200-计算机/260-Android/JetpackCompose/Column\|Column]]
+- [[200-计算机/260-Android/JetpackCompose/Box\|Box]]
 
 { .block-language-dataview}
 
