@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Templates/yml_weekly/","tags":["Weekly/2023"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Templates/yml_weekly/","tags":["Weekly/2024"],"noteIcon":""}
 ---
 
 
