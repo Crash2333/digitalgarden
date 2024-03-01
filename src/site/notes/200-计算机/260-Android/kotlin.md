@@ -23,8 +23,8 @@
 ## 协程
 [[200-计算机/260-Android/KotlinFlow\|KotlinFlow]]
 ## 关键字
-- [[200-计算机/260-Android/Kotlin/is\|is]]
 - [[200-计算机/260-Android/Kotlin/internal\|internal]]
+- [[200-计算机/260-Android/Kotlin/is\|is]]
 - [[200-计算机/260-Android/Kotlin/init\|init]]
 - [[200-计算机/260-Android/Kotlin/as\|as]]
 - [[200-计算机/260-Android/Kotlin/by\|by]]
