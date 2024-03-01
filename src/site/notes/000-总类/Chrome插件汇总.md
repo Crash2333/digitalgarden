@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/000-总类/Chrome插件汇总/","tags":["汇总/ChromePlugin"],"noteIcon":""}
 ---
 
+- [[📄FetchV\|📄FetchV]]
 - [[Gitako\|Gitako]]
 - [[iHomepage\|iHomepage]]
 - [[EpubKit\|EpubKit]]
